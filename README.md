@@ -1,6 +1,5 @@
 #Lucene-QueryExpansion-Modules
 
-***
 
 This is a Lucene's module - Query Expansion using Rocchio/LDA algorithm - for demonstrating its effectiveness/feasibility on Lucene framework in our IR project. 
 
