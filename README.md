@@ -46,7 +46,7 @@ algorithm to expand given query.
 
 
 ###Support and Feedback
-***
+
 Your feedback will be very appreciated! If you have specific problems or bugs with the
 **SimpleUcloudStorage**
 , please file an issue via Github.
