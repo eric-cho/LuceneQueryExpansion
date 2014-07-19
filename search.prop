@@ -1,0 +1,29 @@
+# Search Files Props
+# index-dir
+index-dir = index
+# query-file
+query-file = queries.txt
+# docs-per-query
+docs-per-query = 10
+# query-terms-count (0 - any count) (ex. queries with only 3 terms - 3 )
+query-terms-count = 0
+# out-file - name of the file where results will be written
+out-file = .result
+
+# See QueryExpansion.java CONSTANTS section for details
+QE.method = rocchio
+#QE.decay = 0.04
+QE.doc.num = 10
+QE.term.num = 100
+rocchio.alpha = 1
+rocchio.beta = 0.75
+
+#Google's prop See GoogleQueryExpansion.java CONSTANTS section for details
+#QE.doc.source = google
+#google.auth.key = SYa0TLlQFHLJa6bbE21ra/UfygXf8KR9
+google.auth.key = Qte9k4VQFHKgauaxU4FdkjjJwazm3vrg
+google.file.cache = .google.cache
+
+# LDA parameters
+lda.model_dir = models/casestudy-en
+lda.model_name = model-final
