@@ -48,7 +48,7 @@ algorithm to expand given query.
 ###Support and Feedback
 
 Your feedback will be very appreciated! If you have specific problems or bugs with the
-**SimpleUcloudStorage**
+**LuceneQueryExpansion**
 , please file an issue via Github.
 
 For general feedback and support requests, send an email to:
