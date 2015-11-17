@@ -1,7 +1,7 @@
 #Lucene-QueryExpansion-Modules
 
 
-This is a Lucene's module - Query Expansion using Rocchio/LDA algorithm - for demonstrating its effectiveness/feasibility on Lucene framework in our IR project. 
+This is a Lucene's module - Query Expansion using Rocchio/LDA algorithm - for demonstrating its effectiveness/feasibility on Lucene framework in my IR homework.
 
 Following open source projects were referenced and used into ours: 
 
@@ -47,11 +47,4 @@ algorithm to expand given query.
 
 ###Support and Feedback
 
-Your feedback will be very appreciated! If you have specific problems or bugs with the
-**LuceneQueryExpansion**
-, please file an issue via Github.
-
-For general feedback and support requests, send an email to:
-
-heyeric.cho__AT__gmail.com
-
+Currently it's not available for any support. You can use it freely, taking your own risk.
