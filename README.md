@@ -3,7 +3,7 @@
 
 This is a Lucene's module - Query Expansion using Rocchio/LDA algorithm - for demonstrating its effectiveness/feasibility on Lucene framework in my IR homework.
 
-Following open source projects were referenced and used into ours: 
+Following open source projects were referenced for this: 
 
 * LucQE Lucene Query Expansion Module - <http://lucene-qe.sourceforge.net/>
 * JGibbLDA - A Java Implementation of LDA - <http://jgibblda.sourceforge.net/>
